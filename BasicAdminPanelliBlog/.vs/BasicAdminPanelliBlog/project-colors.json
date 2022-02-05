@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e3e8b318-edb8-437a-b9c8-5f323c822bc9": {
+      "ProjectGuid": "e3e8b318-edb8-437a-b9c8-5f323c822bc9",
+      "DisplayName": "BasicAdminPanelliBlog",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
